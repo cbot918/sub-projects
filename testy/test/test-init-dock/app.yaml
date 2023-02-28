@@ -1,0 +1,5 @@
+test:
+  # vagrant: /mnt/c/HashiCorp/Vagrant/bin/vagrant.exe
+  bin: ya
+  containerName: ci-dock-testy
+  port: 3334
